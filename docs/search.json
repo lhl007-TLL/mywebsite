@@ -7,11 +7,11 @@
     "text": "Welcome to my website!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Projects/Projects2/index.html",
+    "href": "Projects/Projects2/index.html",
+    "title": "Fun",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "For fun for now"
   },
   {
     "objectID": "Resume.html",
@@ -26,13 +26,6 @@
     "title": "Project",
     "section": "",
     "text": "fun"
-  },
-  {
-    "objectID": "Projects/Projects2/index.html",
-    "href": "Projects/Projects2/index.html",
-    "title": "Fun",
-    "section": "",
-    "text": "For fun for now"
   },
   {
     "objectID": "Projects.html",
