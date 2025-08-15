@@ -1,0 +1,14 @@
+---
+title: "Long Le"
+image: "pics/82833357-E44D-4AB5-8227-C1018AF0AC2D.jpeg"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: mailto:tomlongle07@gmail.com
+    - icon: linkedin
+      href: https://www.linkedin.com/in/long-le
+---
+
+Welcome to my website!
+

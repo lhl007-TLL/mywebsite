@@ -1,0 +1,5 @@
+---
+title: "Long's Resume"
+---
+
+{{< pdf resume.pdf width=100% height=800 >}}
